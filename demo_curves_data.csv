@@ -1,0 +1,2 @@
+epoch,mean_R,mean_R_train,overall_max_R,max_R,best_prog_complexity,mean_complexity,loss,n_physical,n_rewarded,best_prog_of_epoch,overall_best_prog,best_prog_of_epoch_prefix,g,m,overall_best_prog_prefix,g,m
+0,0.0023403982333981372,0.04680796466796274,0.5004604055469121,0.5004604055469121,8.0,24.1199,1.4124649858648841,178,174,(((((((((-(m)*g))**(2)))**(-1)))**(0.5)))**(-1)),(((((((((-(m)*g))**(2)))**(-1)))**(0.5)))**(-1)),[inv sqrt inv n2 mul neg m g],16.946900202456558,16.946900202456558,[inv sqrt inv n2 mul neg m g],16.946900202456558,16.946900202456558
